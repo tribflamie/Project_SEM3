@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj": {}
+    "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj": {
+    "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
+        "projectUniqueName": "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
         "projectName": "Project_SEM3",
-        "projectPath": "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
+        "projectPath": "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
         "packagesPath": "C:\\Users\\bumga\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\obj\\",
+        "outputPath": "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bumga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +45,8 @@
               "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             },

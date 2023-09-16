@@ -49,7 +49,7 @@
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Humanizer.dll": {
+          "lib/net6.0/_._": {
             "related": ".xml"
           }
         },
@@ -192,7 +192,7 @@
           "Mono.TextTemplating": "2.2.1"
         },
         "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+          "lib/net6.0/_._": {
             "related": ".xml"
           }
         },
@@ -354,7 +354,7 @@
           "System.Text.Json": "7.0.0"
         },
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyModel.dll": {
+          "lib/net6.0/_._": {
             "related": ".xml"
           }
         },
@@ -635,7 +635,7 @@
           "System.CodeDom": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.0/Mono.TextTemplating.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
@@ -644,7 +644,7 @@
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.CodeDom.dll": {
+          "ref/netstandard2.0/_._": {
             "related": ".xml"
           }
         },
@@ -2898,11 +2898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
+      "projectUniqueName": "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
       "projectName": "Project_SEM3",
-      "projectPath": "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
+      "projectPath": "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\Project_SEM3.csproj",
       "packagesPath": "C:\\Users\\bumga\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\obj\\",
+      "outputPath": "C:\\Users\\bumga\\source\\repos\\Project_SEM3\\Project_SEM3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bumga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2912,6 +2912,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
